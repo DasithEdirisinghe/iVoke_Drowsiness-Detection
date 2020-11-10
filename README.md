@@ -34,7 +34,10 @@
 # Technologies we use
 
 Raspberry pi 3B
-OennCV-Python3
+
+OpenCV-Python3
+
 Dlib
+
 Docker
 
