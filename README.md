@@ -44,6 +44,11 @@ Docker
 
 # How we get started
 
+Rather than directly implemeting the model in raspberry pi, first we implement it in the pc.
+So I use ubuntu as my OS and I install python3, open cv, dlib libary and additional librariis.
+So then after referring many online resources I get started my programming.
+
+
 
 
 
