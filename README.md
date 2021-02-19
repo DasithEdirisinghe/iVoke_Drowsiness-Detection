@@ -47,7 +47,7 @@ Rather than directly implemeting the model in raspberry pi, first we implement i
 So I use ubuntu as my OS and I install python3, open cv, dlib libary and additional librariis.
 So then after referring many online resources I get started my programming.
 
-# Get started with Rpi
+# Geting start with Rpi
 
 Rpi 3B is the board which we used for our project.
 Raspberry pi OS https://www.raspberrypi.org/software/ is the OS we used.
