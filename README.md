@@ -49,10 +49,8 @@ So then after refering many online resources I get started.
 
 # Geting start with Rpi
 
-Rpi 3B is the board which we used for our project.
-Raspberry pi OS https://www.raspberrypi.org/software/ is the OS we used.
-After dealing more than one week with rpi and OS installation we finally implement the program on Rpi.
-We use secure shell to remotely control the Rpi board other than directly connecting mouse and keyboard to Rpi.
+* We used Rpi 3B board for the development stage.
+* [This](https://www.raspberrypi.org/software/) is the OS we used.
 
 # Sample video file
 https://drive.google.com/file/d/1f0asFW_5XUYx-cVuFBrHE3X6zYAUmsQe/view?usp=sharing
